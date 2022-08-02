@@ -9,3 +9,9 @@ var birthDay = 30
 var dogPerson = true
 var catPerson = true
 var reptilePerson = false
+
+var catPerson = false
+
+console.log(firstName)
+console.log(middleName)
+console.log(lastName)
